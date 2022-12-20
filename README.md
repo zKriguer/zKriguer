@@ -5,6 +5,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=zkriguer" height="150" alt="stats graph"  />
     <img align="left"  width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkriguer&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+<img align="center" width="367" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&username=zkriguer" alt=""/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=zkriguer" height="150" alt="languages graph"  />
 </div>
 
