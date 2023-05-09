@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/211/211154.gif"  />
-
 ###
 
 <div align="left">
